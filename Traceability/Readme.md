@@ -1,19 +1,11 @@
 ![Archive](./Images/Archive.png)
 <br>
-<h3 align=center>I am working with a document archive</h2>
+<h3 align=center>Much of my work consists of managing massive amounts of requirements.</h2>
 <h4 align=center>Photo by C M on Unsplash.</h3>
 <br>
 
 
 # End-to-End Trace Matrix
-<style>
-
-    img[src*='#center'] { 
-    display: block;
-    margin: auto;
-
-}
-</style>
 
 ## Abstract 
 
@@ -27,8 +19,22 @@ I expect the following from my exploratory data analysis:
 
 ## Background
 
+### Definitions
+
+<dl>
+<dt>Market Requirement</dt>
+<dd>A requirement that describes a market need.</dd>
+<dt>System Requirement</dt>
+<dd>A requirement that describes a system behavior in service of a market requirement.</dd>
+<dt>Test Case</dt>
+<dd>A test designed to verify a system requirement.</dd>
+<dt>Test Run</dt>
+<dd>A scheduled execution of a test case.</dd>
+</dl>
+
 ### Document Structure
 
 My requirements flowdown in the following manner.
-
-[<img src="Images/DocStructure.png#center" width="250"/>](Images/DocStructure.png#center)
+<p align="center" width="100%">
+<img width="33%" src="Images/DocStructure.png">
+</p>
