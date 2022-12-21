@@ -1,6 +1,6 @@
 ![Archive](./Images/Archive.png)
 <br>
-<h3 align=center>Much of my work consists of managing massive amounts of requirements.</h2>
+<h3 align=center>Much of my work consists of managing massive numbers of requirements.</h2>
 <h4 align=center>Photo by C M on Unsplash.</h3>
 <br>
 
@@ -34,7 +34,19 @@ I expect the following from my exploratory data analysis:
 
 ### Document Structure
 
-My requirements flowdown in the following manner.
+The basic concept of the flowdown of requirements is pretty conventional, which is illustrated in the following figure.
 <p align="center" width="100%">
 <img width="33%" src="Images/DocStructure.png">
+</p>
+
+Unfortunately, the implementation is very strange. The basic structure is shown in the following diagram. Here are the key features.
+
+* Each product has one market specification
+* The product has numerous variants.
+	* Each variant requirement set is ~95% identical with the other variants.
+    * The variants are built by different teams that each want their own specification.
+* Each requirement must be verified using at least one test case.
+* Each test case may require multiple runs to obtain a passed test.
+<p align="center" width="100%">
+<img width="75%" src="Images/MktSysTCaseTRun.png">
 </p>
