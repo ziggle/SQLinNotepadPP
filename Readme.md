@@ -7,3 +7,9 @@ Notepad++ has an excellent plugin called CSVquery, which I have been using to pr
 ## Topics
 
 ### Number of PMs per Monarch
+
+This analysis was done totally within Notepad++ and was an exercise to determine what I could do within NPP's MySQL implementation.
+
+### Requirement Traceability Analysis
+
+This folder contains my work on generating requirement trace matrices. 
