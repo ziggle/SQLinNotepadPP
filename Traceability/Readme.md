@@ -50,3 +50,16 @@ Unfortunately, the implementation is very strange. The basic structure is shown 
 <p align="center" width="100%">
 <img width="75%" src="Images/MktSysTCaseTRun.png">
 </p>
+
+### Processing Pipeline
+
+There are some key pre-conditions for this analysis to work:
+
+* The SyRSs must have all their links to the URS.<br>Systems cannot control PdM and they simply do not have adequate information to properly setup the required linkages. So all the linkage information must be stored in the SyRSs.
+* Any missing links MUST be patched as part of the PythonTracer4 routine.<br>Ideally, the SyRSs would be complete. Because of the pace of change, it has proven to be impossible to keep the SyRSs up-to-date. The patch file allows us to fix links quickly and documents the fixes that must be included later.
+
+The processing pipeline is shown in the following illustration.
+
+<p align="center" width="100%">
+<img width="75%" src="Images/Pipeline.png">
+</p>
