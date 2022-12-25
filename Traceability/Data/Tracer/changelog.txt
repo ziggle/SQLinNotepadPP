@@ -1,0 +1,67 @@
+# Changelog
+This is a changelog for the tracer project.
+
+## [0.5] - Sept. 30 2021
+### Added
+- Additional user info text
+
+### Changed
+- Corrected user text in info prompt to say "Coverage" rather than "Coverage Export"
+- Fixed bug where file read mechanism cut off 2 lines (header + 1st data line) instead of only 1 line (header)
+- Fixed bug where items weren't internally trimmed even when not of specified link type
+
+### Removed
+- None
+
+## [0.4] - Sept. 10 2021
+### Added
+- tracer.py
+- virtual environment instantiation via tracer.cmd
+
+### Changed
+- Rewrote xlsx to csv conterter to use openpyxl instead of xlrd
+- Rewrote tracer.cmd to call python-based tracer
+- .xlsx files converted 'on the fly' are now placed in .\output (previously placed in .)
+
+### Removed
+- tracer.exe
+
+## [0.3] - Sept. 2 2021
+### Added
+- None
+
+### Changed
+- Rewrote xlsx to csv converter from being PowerShell-based to Python-based
+- Build procedure now optionally uses PyInstaller instead of Nuitka
+- Edited help text to clarify parent/child relationship
+
+### Removed
+- Section in tracer.exe help text concerning outdated parent/child folder usage
+
+## [0.2] - Aug. 30 2021
+### Added
+- User prompt to select item relationship from parent to child as either "refines" or "is refined by"
+- Optional flag in tracer.exe: --item-types
+- tracer.exe functionality to support arbitrary relationship types
+
+### Changed
+- tracer.exe to check item types against list instead of flag-specified names for parent and child separately (default: "User Requirement", "System Requirement")
+- Polarion template reference from "Completeness Export" to "Coverage Export"
+- Text from "requirement" to "work item" in user prompt and help text
+- User-readable script status text
+- Fixed bug causing NameError to be raised when user didn't select appropriate documents
+- Fixed bug where giving .xlsx files would raise a permissions error with tracer_converter.ps1
+
+### Removed
+- Python-based GUI code (previously commented out in source)
+- Optional flags in tracer.exe: --parent-item, --child-item
+
+## [0.1] - Aug. 26 2021
+### Added
+- Initial release
+
+### Changed
+- N/A
+
+### Removed
+- N/A
