@@ -13,3 +13,8 @@ This analysis was done totally within Notepad++ and was an exercise to determine
 ### Requirement Traceability Analysis
 
 This folder contains my work on generating requirement trace matrices. 
+
+
+### Traceability Crosscheck
+
+Verify that the Python trace tool and Excel trace tool agree.
