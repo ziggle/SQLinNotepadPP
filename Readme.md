@@ -18,3 +18,7 @@ This folder contains my work on generating requirement trace matrices.
 ### Traceability Crosscheck
 
 Verify that the Python trace tool and Excel trace tool agree.
+
+### Consolidated Report
+
+After a meeting today, I decided that I needed to cleanup the report and add all sorts of explanatory text.
