@@ -21,4 +21,4 @@ Verify that the Python trace tool and Excel trace tool agree.
 
 ### Consolidated Report
 
-After a meeting today, I decided that I needed to cleanup the report and add all sorts of explanatory text.
+After a meeting today, I decided that I needed to cleanup the report and add all sorts of explanatory text. I held a review with Regulatory today and the report format meets the need. I scheduled a meeting with upper management to convey all the database quality issues that I found during this effort. There was a lot of cleanup required that should not be necessary.
