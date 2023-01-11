@@ -1,6 +1,8 @@
-<img src="./Images/RequirementFlow.png" width="600" style="display:block;margin:0 auto"/>
+<p align="center">
+  <img width="800" src="./Images/RequirementFlow.png">
+</p>
 <br>
-<h3 align=center>I am trying to generate a traceability matrix for a program</h2>
+<h3 align=center>I am trying to generate a traceability matrix for a engineering program</h2>
 <br>
 
 <p style="font-size: 2rem;font-weight:700; display:flex; justify-content:center;">User Needs → System Requirements → Test Cases</p>
@@ -15,7 +17,9 @@ I needed to generate a report that shows the mapping between three types of docu
 
 Because all the input data is in the form of Excel workbooks and everyone at work has Excel, I decided to perform this analysis in Excel. The basic workflow is as follows:
 
-<img src="./Images/WorkFlow.png" width="500" style="display:block;margin:0 auto"/>
+<p align="center">
+  <img width="800" src="./Images/WorkFlow.png">
+</p>
 
 # Background
 
