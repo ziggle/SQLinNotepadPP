@@ -5,9 +5,9 @@
 <h3 align=center>I am trying to generate a traceability matrix for a engineering program</h2>
 <br>
 
-<p style="font-size: 2rem;font-weight:700; display:flex; justify-content:center;">User Needs → System Requirements → Test Cases</p>
+<h1>User Needs → System Requirements → Test Cases</h1>
 
-# Abstract
+## Abstract
 
 I needed to generate a report that shows the mapping between three types of documents:
 
@@ -21,6 +21,6 @@ Because all the input data is in the form of Excel workbooks and everyone at wor
   <img width="800" src="./Images/WorkFlow.png">
 </p>
 
-# Background
+## Background
 
-# Analysis
+## Analysis
