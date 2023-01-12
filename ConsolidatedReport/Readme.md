@@ -2,7 +2,7 @@
   <img width="800" src="./Images/RequirementFlow.png">
 </p>
 <br>
-<h3 align=center>I am trying to generate a traceability matrix for a engineering program</h2>
+<h3 align=center>I am trying to generate a traceability matrix for an engineering program</h2>
 <br>
 
 <h1>User Needs → System Requirements → Test Cases</h1>
