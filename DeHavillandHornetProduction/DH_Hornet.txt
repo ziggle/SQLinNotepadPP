@@ -1,0 +1,396 @@
+Mk	Serials	Sqns	Fate
+Hornet F1	PX210	AAEE	To 6149M 10.46 NTU
+Hornet F1	PX211	Mkrs/AAEE/RAE	SOC 6.2.47
+Hornet F1	PX212	RAE	To Admiralty 25.3.46
+Hornet F1	PX213	Mkrs	SS 18.1.51
+Hornet F1	PX214	RAE	To Admiralty 17.4.46
+Hornet F1	PX215	Mkrs	SOC 25.11.46
+Hornet F1	PX216	Mkrs/PRDU/Yorks Sector	To 6685M 5.12.49
+Hornet F1	PX217	AAEE	SS 18.1.51
+Hornet F1	PX218	AAEE	SS 18.1.51
+Hornet F1	PX219	Mkrs/AAEE	MoS aircraft
+Hornet F1	PX220	Mkrs/AAEE	SS 18.1.51
+Hornet F1	PX221	AAEE	SS 31.8.49
+Hornet F1	PX222	TRE/AAEE	To Admiralty 14.8.47
+Hornet F1	PX223	AAEE	SS 18.1.51
+Hornet F1	PX224	CFE	SS 31.8.49
+Hornet F1	PX225	ECFS/65	SS 22.1.51
+Hornet F1	PX226	65	SS 18.1.51
+Hornet F1	PX227	1FU/FE	Tropical trials aircraft SOC 31.7.47
+Hornet F1	PX228		Tropical trials aircraft SOC 29.9.49
+Hornet F1	PX229	Mkrs/RAE	Flew into high ground in bad visibility nr Charterhouse Somerset 12.11.46
+Hornet F1	PX230	AAEE	NF21 prototype abandoned after engine fell out nr Boscombe Down 16.5.47
+Hornet F1	PX231	65/226 OCU	To 6612M 29.9.49
+Hornet F1	PX232	65/41	SS 18.1.51
+Hornet F1	PX233	64/19	Stalled on single-engined overshoot at night crashed 1/2m W of Church Fenton 21.11.47
+Hornet F1	PX234	64/19	SS 18.1.51
+Hornet F1	PX235		SS 18.1.51
+Hornet F1	PX236	64	SS 22.1.51
+Hornet F1	PX237	19/Eastern Sector/12 Gp CF	To MoS 9.2.49
+Hornet F1	PX238	226 OCU	To 6696M 8.49
+Hornet F1	PX239		To Admiralty 1.12.47 as F.20
+Hornet F1	PX240	65	SS 22.1.51
+Hornet F1	PX241	64	SS 22.1.51
+Hornet F1	PX242	65/41	SOC 4.7.49
+Hornet F1	PX243	10MU	Bounced on landing and u/c collapsed Hullavington 9.5.46 DBF
+Hornet F1	PX244	64/41	Both engines cut hit hedge in forced landing 6m NW of Derby 4.11.48 DBR
+Hornet F1	PX245	ML Avn	SOC 25.3.48
+Hornet F1	PX246	64/19	SS 18.1.51
+Hornet F1	PX247	64	SS 22.1.51
+Hornet F1	PX248	64/19	To MoS 9.2.49
+Hornet F1	PX249	AAEE/ECFS	SS 24.8.49
+Hornet F1	PX250	64/19	SS 24.8.49
+Hornet F1	PX251	64	SS 22.1.51
+Hornet F1	PX252	65/41/226 OCU	Dived into ground on overshoot Bentwaters 8.1.49
+Hornet F1	PX253	64	Port engine brokeaway crashed 1/2m NE of High Green Norfolk 7.5.46
+Hornet F1	PX273	Horsham St.Faith/32MU	Flew into hill in cloud nr Penderyn Brecon 30.9.46
+Hornet F1	PX274	64	Flew into high ground in cloud Bacup Lancs. 22.12.47
+Hornet F1	PX275	CFE/12 Gp CF	SS 22.1.51
+Hornet F1	PX276	64/19	SS 18.1.51
+Hornet F1	PX277	65/19/41	Hit by PX307 while parked Church Fenton 11.1.49 to 6658M 5.49
+Hornet F1	PX278	65/19/41	SS 22.1.51
+Hornet F1	PX279	64	SS 22.1.51
+Hornet F1	PX280	65	SS 18.1.51
+Hornet F1	PX281	226OCU	SS 30.1.50
+Hornet F1	PX282	65/Church Fenton/64	Stalled on approach and hit ground Linton-on-Ouse 10.12.47 DBF
+Hornet F1	PX283	64	Hit trees low flying 1m NNE of Wroxham Norfolk 20.3.46
+Hornet F1	PX284	64/19	Collided with Lancaster TW647 during fighter affiliation and crashed Stanford Norfolk 11.11.47
+Hornet F1	PX285	64	SS 17.3.49
+Hornet F1	PX286	FCCS	SS 18.1.51
+Hornet F1	PX287	64	SS 22.1.51
+Hornet F1	PX288	RR	SS 22.1.51
+Hornet F3	PX289	Mkrs/41/33/45	SOC 26.4.55
+Hornet F3	PX290	Mkrs	Swung on landing Hatfield 30.6.47 DBR
+Hornet F3	PX291	AAEE	SOC 27.5.55
+Hornet F3	PX292	HCF Linton-on-Ouse/FETS	SOC 18.5.55
+Hornet F3	PX293	19/33/45	SOC 27.5.55
+Hornet F3	PX294	19/41/80	SOC 29.3.55
+Hornet F3	PX295	64/Bovingdon/FETS	Overstressed 27.5.54 SOC
+Hornet F3	PX296	64	SOC 27.5.55
+Hornet F3	PX297	41/80	SOC 18.5.55
+Hornet F3	PX298	41/64/33	SOC 11.2.54
+Hornet F3	PX299	Yorks Sector/Linton-on-Ouse/Cv F.4	SOC 27.5.55
+Hornet F3	PX300	41	SOC 27.5.55
+Hornet F3	PX301	65/19/Cv F.4	SOC 22.5.55
+Hornet F3	PX302	41/33	Engine cut on take-off swung and hit WF971 Butterworth 29.7.54
+Hornet F3	PX303	Mkrs/64/65	Collided with PX359 on takeoff Linton-on-Ouse 4.9.50 DBR
+Hornet F3	PX304	12 Gp CF/65/Cv F.4	SOC 27.5.55
+Hornet F3	PX305	65/HCF Linton-on-Ouse/33	Engine cut bellylanded Butterworth 28.10.54
+Hornet F3	PX306	19/33/45	SOC 16.5.55
+Hornet F3	PX307	41	Engine ran away jumped chocks hit PX277 and DBR Church Fenton 11.1.49
+Hornet F3	PX308	41	Hit pole on GCA approach and crashed Linton-on-Ouse 8.1.51 DBF
+Hornet F3	PX309	Manby/FETS	SOC 27.5.55
+Hornet F3	PX310	Mkrs/45	SOC 27.5.55
+Hornet F3	PX311	Mkrs/HCF Linton-on-Ouse/33	Engines cut bellylanded at Butterworth 14.10.54
+Hornet F3	PX312	AAEE/45	SOC 26.4.55
+Hornet F3	PX313	Church Fenton/FETS	Bellylanded in error Seletar 10.5.54
+Hornet F3	PX314	41	SOC 31.7.55
+Hornet F3	PX315	Mkrs	Overshot landing and overturned Hatfield 6.9.46
+Hornet F3	PX328	65/33/45	SOC 28.4.55
+Hornet F3	PX329	OFU/Cv F.4	SOC 27.5.55
+Hornet F3	PX330	65/41	Overshot night landing Church Fenton 6.6.50 DBR
+Hornet F3	PX331	10MU	Caught fire in hangar Hullavington 24.5.50 DBR
+Hornet F3	PX332	19/45	Canopy shattered 16.2.55 airframe DBR
+Hornet F3	PX333	41	Lost height during single-engined flying practice and bellylanded 1m E of Acaster Malbis airfield 23.8.49
+Hornet F3	PX334	64/Cv F.4/80	SOC 18.5.55
+Hornet F3	PX335	65/33/45	SOC 27.5.55
+Hornet F3	PX336	Mkrs/W.Raynham/AAEE/Mkrs	SOC 27.5.55
+Hornet F3	PX337	65/Cv F.4	SOC 27.5.55
+Hornet F3	PX338	19/33	U/c jammed belly-landed at Butterworth 11.3.53
+Hornet F3	PX339	65/64/FETS	SOC 13.3.53
+Hornet F3	PX340	65/64/FETS	SOC 12.11.54
+Hornet F3	PX341	64	SOC 31.10.55
+Hornet F3	PX342	19/33/45	SOC 27.5.55
+Hornet F3	PX343	19/80	SOC 14.4.55
+Hornet F3	PX344	64/FETS	Crashed 14m E of Malacca 1.4.53 believed flew into obstruction in cloud
+Hornet F3	PX345	64/80	SOC 6.5.55
+Hornet F3	PX346	19/65/64/Cv F.4/33/45	SOC 26.4.45
+Hornet F3	PX347	19/Mkrs/AAEE	SOC 27.5.55
+Hornet F3	PX348	CFE/65/1689 Flt/33/45	SOC 27.5.55
+Hornet F3	PX349	19/65	SOC 27.5.55
+Hornet F3	PX350	41/45	Collided with PX362 during run over airfield Butterworth 2.4.55
+Hornet F3	PX351	64	Stalled on approach Linton-on-Ouse 12.1.50
+Hornet F3	PX352	65/45	SOC 27.5.55
+Hornet F3	PX353	65/45	SOC 27.5.55
+Hornet F3	PX354	64/HCF/19/45	SOC 2.5.55
+Hornet F3	PX355	65/80	SOC 6.5.55
+Hornet F3	PX356	65	Hit water low flying over Tay and bellylanded 4m E of Newburgh Fife 6.3.49
+Hornet F3	PX357	41/80	SOC 7.1.55
+Hornet F3	PX358	64	Hit ground recovering from dive and forcelanded Odiham 10.10.50
+Hornet F3	PX359	41/65	Collided with PX303 on takeoff Linton-on-Ouse 4.9.50 not repaired
+Hornet F3	PX360	19/FETS	U/c collapsed on landing Changi 16.11.53
+Hornet F3	PX361	65	SOC 27.5.55
+Hornet F3	PX362	65/Linton-on-Ouse/Cv F4/45	Collided with PX350 on run over airfield Butterworth 2.4.55
+Hornet F3	PX363	41	Flew into ground during loop Gutersloh 15.8.49
+Hornet F3	PX364	65/64	Engine cut u/c collapsed on emergency landing Waddington 14.3.51
+Hornet F3	PX365	Linton-on-Ouse/33/Tengah	SOC 27.5.55
+Hornet F3	PX366	41/80	SOC 10.5.55
+Hornet F3	PX367	19/45	Sank back on take-off Butterworth 26.4.55 SOC
+Hornet F3	PX368	65/FETS/80	SOC 13.5.55
+Hornet F3	PX369	64/Bovingdon/45	U/c jammed belly-landed at Tengah 6.12.54
+Hornet F3	PX383	Mkrs/AAEE/Mkrs	Engine cut after take-off control lost abandoned nr Royston Herts. 25.2.49
+Hornet F3	PX384	65/HCF Linton-on-Ouse/33/45	SOC 27.5.55
+Hornet F3	PX385	64/AAEE	SOC 27.5.55
+Hornet F3	PX386	AAEE/33	SOC 27.5.55
+Hornet F3	PX387	19/Mkrs	SS 16.11.55
+Hornet F3	PX388	65	Flew into ground out of cloud on low level navex Remscheid 17.1.50
+Hornet F3	PX389	19/45	Swung on landing into ditch Tengah 21.5.53 DBR
+Hornet F3	PX390	19/80	SOC 14.2.55
+Hornet F3	PX391	64/FETS/Tengah/45	SOC 27.5.55
+Hornet F3	PX392	64	Overshot single-engined landing and u/c raised to stop Linton-on-Ouse 2.6.50 not repaired
+Hornet F3	PX393	64/AAEE	SOC 27.5.55
+Hornet F3	PX394	65	Overturned on landing Linton-on-Ouse 20.4.49
+Hornet F3	PX395	41	SOC 31.10.55
+Hornet F3	PX396	64	Overshot single-engined landing and hit hedge Linton-on-Ouse 15.7.48
+Hornet F3	PX397	41	Overshot landing hit ditch and overturned Church Fenton 23.9.48
+Hornet F3	PX398	65	Overshot single-engined landing in bad visibility and overturned Leeming 9.2.50
+Hornet P	RR915		
+Hornet P	RR919		
+Sea Hornet F20	TT186		SOC 9.1.56 fire Fighting Trainer
+Sea Hornet F20	TT187		Cv to PR.22 1.4.49 SOC 15.6.49
+Sea Hornet F20	TT188		SOC 13.12.50
+Sea Hornet F20	TT189		Stored Lossiemouth 10.7.53 SS 8.4.57
+Sea Hornet F20	TT190		Used as test bed D/d Culham 14.11.51 Stored Lossiemouth 26.6.53 SS 8.4.57
+Sea Hornet F20	TT191		Used for flight trials Stored Lossiemouth 28.2.53 SS 13.3.57
+Sea Hornet F20	TT192		
+Sea Hornet F20	TT193 CF-GUO		DH charge from 9.12.48 to CF-GUO 28.6.51 Crashed 11.7.52 Scrapped due lack of spares
+Sea Hornet F20	TT194		Stored Lossiemouth 10.4.54 SS 13.3.57
+Sea Hornet F20	TT195		Suffered fire 21.12.48 Fuselage to Yeovilton as GI
+Sea Hornet F20	TT196		Grounded 13.10.55 Fire training 31.12.55 SOC 6.6.56 
+Sea Hornet F20	TT197		SOC 5.1.56 Disposed of at sea 1.2.56
+Sea Hornet F20	TT198		Stored Lossiemouth 19.8.53 SS 8.4.57
+Sea Hornet F20	TT199	801	Collided with VR851 and crashed into sea W of Mull of Galloway 17.5.50
+Sea Hornet F20	TT200		Overshot landing and crashed into field Ford 30.8.47
+Sea Hornet F20	TT201		Stored Lossiemouth 4.12.52 SS 8.4.57
+Sea Hornet F20	TT202		Cv to PR.22 later scrapped Farnborough
+Sea Hornet F20	TT203		Stored Abbotsinch 29.1.53 SOC 9.8.57
+Sea Hornet F20	TT204		Stored Lossiemouth 9.7.53 SOC 1.57
+Sea Hornet F20	TT205		Stored Abbotsinch 17.2.53 SS 22.7.57 SOC 9.8.57
+Sea Hornet F20	TT206		Veered on landing and struck pom-pom gun HMS Indomitable 29.1.51
+Sea Hornet F20	TT207		Stored Abbotsinch 22.3.52 SOC 9.8.57 presumed scrapped
+Sea Hornet F20	TT208		Stored Abbotsinch 3.2.53 SS 9.8.57
+Sea Hornet F20	TT209		Stored Abbotsinch 14.8.52 SS 22.7.57 SOC 9.8.57
+Sea Hornet F20	TT210		Stored Abbotsinch 12.3.53 Burnt by Fire Section during the 1957 air display
+Sea Hornet F20	TT211	801	Ditched into sea after take-off from HMS Implacable 16.9.49
+Sea Hornet F20	TT212		Grounded 13.10.55 SOC 6.6.56
+Sea Hornet F20	TT213		to Australia 21.2.48 for Tropicalisation trials allocated RAAF A83-1 but not carried. Returned to UK 2.4.51 Stored Lossiemouth 17.3.55 SS .58
+Sea Hornet F20	TT217		
+Sea Hornet F20	TT218		
+Sea Hornet F20	TT221		
+Sea Hornet F20	TT248		Stored Abbotsinch 1.53 SOC 28.1.55 scrapped .57
+Hornet PR2	VA962	FRDU	SOC 8.3.48
+Hornet PR2	VA963		SOC 8.3.48
+Hornet PR2	VA964	RAE	DBR in safety barrier trials SOC 30.6.48
+Hornet PR2	VA965	RAE	Retained at RAE for tests
+Hornet PR2	VA966	RAE	SOC 6.12.49
+Sea Hornet F20	VR836		
+Sea Hornet F20	VR837		Stored Abbotsinch 16.2.53 SS 22.7.57 SOC 9.8.57
+Sea Hornet F20	VR838		Stored Lossiemouth 24.9.52 SS 13.3.57
+Sea Hornet F20	VR839		SOC 18.6.51 reason unknown
+Sea Hornet F20	VR840		SOC 28.1.55 Scrapped Lossiemouth
+Sea Hornet F20	VR841		Lost at sea off St.Davids 16.2.53
+Sea Hornet F20	VR842		Grounded 13.10.55 SOC 6.6.56
+Sea Hornet F20	VR843		SOC 27.6.55
+Sea Hornet F20	VR844		SOC 9.12.49
+Sea Hornet F20	VR845	806	Broke cloud diving into sea 220yds off McNab's Light Nova Scotia 5.6.48 SOC 11.6.48
+Sea Hornet F20	VR846		Preserved Lossiemouth 15.7.53 SS 8.4.57
+Sea Hornet F20	VR847		SS 8.4.57
+Sea Hornet F20	VR848		SS 8.4.57
+Sea Hornet F20	VR849		Stored Lossiemouth 24.7.53 SS 13.3.57
+Sea Hornet F20	VR850		Stored 22.2.55 until SOC
+Sea Hornet F20	VR851	801	Collided with TT199 both fell into sea off Mull of Galloway HMS Implacable 17.5.50
+Sea Hornet F20	VR852		SS 8.4.57
+Sea Hornet F20	VR853		SOC 30.3.50 reason unknown
+Sea Hornet F20	VR854		Used for fire training Lee-on-Solent 12.1.56 SOC 6.6.56 Scrapped 3.10.57
+Sea Hornet F20	VR855	801	Bounced on fast approach hit Bofors guns alighted in deck park HMS Implacable 7.2.50
+Sea Hornet F20	VR856		SOC after aircraft ran off end of runway Hal Far 22.3.54
+Sea Hornet F20	VR857	801	Port wing folded after takeoff crashed into sea HMS Implacable 10.11.49
+Sea Hornet F20	VR858		SS 9.8.57
+Sea Hornet F20	VR859	728	Struck rocky ground short of runway u/c collapsed Hal Far 12.1.54
+Sea Hornet F20	VR860	801	Tail hit rounddown and snapped a/c bounced and skidded along deck HMS Implacable 29.1.50
+Sea Hornet F20	VR861		Stored Lossiemouth 18.12.52 SS 8.4.57
+Sea Hornet F20	VR862	801	Crashed off HMS Implacable after port wing folded on take-off 12.6.50
+Sea Hornet F20	VR863		Stored Lossiemouth 12.2.53 SS 8.4.57
+Sea Hornet F20	VR864		SOC 6.7.56
+Sea Hornet F20	VR891		Stored Lossiemouth 24.7.53 SS 8.4.57
+Sea Hornet F20	VR892	801	Ditched in sea due to loss of power after take-off from HMS Implacable 8.11.49
+Sea Hornet F20	VR893		
+Sea Hornet NF21	VV430		SOC 31.12.55 
+Sea Hornet NF21	VV431		Used for trials with A&AEE Stored 6.6.53 SS 24.3.58
+Sea Hornet NF21	VV432		WOC 31.12.55 for fire fighting training SOC 6.6.56
+Sea Hornet NF21	VV433		Stored Lossiemouth 2.2.55 SS 8.4.57
+Sea Hornet NF21	VV434		WOC 21.12.55 for fire fighting training SOC 6.6.56
+Sea Hornet NF21	VV435		WOC 21.12.55 for fire fighting training SOC 6.6.56
+Sea Hornet NF21	VV436		Stored Lossiemouth 1.7.54 SS 24.3.58
+Sea Hornet NF21	VV437		SS 24.3.59
+Sea Hornet NF21	VV438		WOC 31.12.55 for fire fighting training SOC 6.6.56
+Sea Hornet NF21	VV439		SS 19.12.56
+Sea Hornet NF21	VV440		Preserved Lossiemouth 13.5.54 SS 24.3.58 SOC 21.4.58
+Sea Hornet NF21	VV441		Stored Lossiemouth 24.9.54 SS 24.3.58
+Sea Hornet PR22	VW930		DH trials 31.3.49 to Farnborough 3.3.49 to Hullavington 12.7.49 SOC 11.9.53 reason unknown
+Sea Hornet PR22	VW931		Stored Lossiemouth 26.11.52 SS 13.3.57
+Sea Hornet PR22	VW932		Stored Lossiemouth 13.7.54 SS 13.3.37
+Sea Hornet PR22	VW933		SS 8.4.57
+Sea Hornet PR22	VW934		Stored Lossiemouth 19.9.50 SS 22.7.57 SOC 9.8.57
+Sea Hornet PR22	VW935		Stored Lossiemouth 26.1.50 SS 22.7.57 SOC 9.8.57
+Sea Hornet PR22	VW936		SOC 22.7.50 reason unkown
+Sea Hornet PR22	VW937		Stored Lossiemouth 17.5.53 SS 8.4.57
+Sea Hornet PR22	VW938		Stored Lossiemouth 7.1.54 SS 3.4.58
+Sea Hornet PR22	VW939	738	Spun into sea SW of Porthleven 15.5.51
+Sea Hornet PR22	VW945		Stored Lossiemouth 9.4.54 SS 13.3.57
+Sea Hornet PR22	VW946		Stored Lossiemouth 13.5.54 SS 24.3.58 SOC 21.4.58
+Sea Hornet PR22	VW947		Stored Lossiemouth 13.7.54 SS 24.3.58 SOC 21.4.58
+Sea Hornet PR22	VW948	809	Crashed nr Gweek during night exercise 15.7.49
+Sea Hornet PR22	VW949		SOC 6.6.56 
+Sea Hornet PR22	VW950		Stored Lossiemouth 16.3.54 SS 3.4.57
+Sea Hornet PR22	VW951		[First Chester built aircraft] Stored Lossiemouth 5.7.54 SS 24.3.58 SOC 21.4.58
+Sea Hornet PR22	VW952		SOC 30.3.53 reason unknown
+Sea Hornet PR22	VW953		
+Sea Hornet PR22	VW954		Grounded 13.10.55 St Davids SS 22.1.57
+Sea Hornet PR22	VW955	809	Hit Attacker WK325 lost overboard HMS Eagle 10.2.54
+Sea Hornet PR22	VW956		Stored Lossiemouth 1.9.52 SS 22.7.57
+Sea Hornet PR22	VW957		SS 19.12.56 SOC 21.1.57
+Sea Hornet PR22	VW958		SS 19.12.56
+Sea Hornet PR22	VW959		SOC 30.10.53 reason unknown
+Sea Hornet PR22	VW960		Stored Lossiemouth 24.5.54 SS 8.4.57
+Sea Hornet PR22	VW961		Stored Lossiemouth 17.5.54 SS 24.3.58 SOC 21.4.58
+Sea Hornet PR22	VW962		Stored Lossiemouth 1.6.53 SS 13.3.57
+Sea Hornet PR22	VW963	809	Stb engine cut on approach Forcelanded nr Gatwick 5.12.51
+Sea Hornet PR22	VW964		Stored Lossiemouth 28.5.54 Scrapped 1.58
+Sea Hornet PR22	VW965		DBR Crash landed Ford 1.52 SOC 25.5.52
+Sea Hornet PR22	VW966		Stored Lossiemouth 28.5.54 SS 13.3.57
+Sea Hornet PR22	VW967		SOC 16.1.57
+Sea Hornet PR22	VW968		Stored Lossiemouth 15.6.54 SS 8.4.57
+Sea Hornet PR22	VW969		Stored Lossiemouth 20.7.54 SS 24.3.58
+Sea Hornet PR22	VW970		Stored Lossiemouth 29.3.55 SS 24.3.58
+Sea Hornet PR22	VW971		Stored Abbotsinch 24.10.52 SS 22.7.57
+Sea Hornet PR22	VW972		Stored Abbotsinch 27.3.50 SS 22.7.57
+Sea Hornet PR22	VW973		Stored Abbotsinch 25.2.50 SS 22.7.57 SOC 9.8.57
+Sea Hornet PR22	VW974		Stored Abbotsinch 2.5.50 SS 22.7.57 SOC 9.8.57
+Sea Hornet PR22	VW975		Stored Abbotsinch 17.3.50 SS 9.8.57
+Sea Hornet PR22	VW976		Stored Abbotsinch 17.3.50 SS 22.7.57
+Sea Hornet PR22	VW977		Stored Abbotsinch 17.3.50 SS 9.8.57
+Sea Hornet PR22	VW978		Stored Abbotsinch 19.5.50 SS 22.7.57
+Sea Hornet PR22	VW979		SOC Fleetlands 6.6.56
+Sea Hornet PR22	VW980		Stored Lossiemouth 4.9.54 SS 24.3.58
+Sea Hornet NF21	VX245		Stored Abbotsinch 3.5.50 SS 22.7.57
+Sea Hornet NF21	VX246		Stored Abbotsinch 24.7.51 SS 9.8.57
+Sea Hornet NF21	VX247		SS 13.3.57
+Sea Hornet NF21	VX248		SOC 28.1.55
+Sea Hornet NF21	VX249		Stored Lossiemouth 12.3.52 SS 22.7.57
+Sea Hornet NF21	VX250		SS 19.12.56 SOC 21.1.57 Small piece of rear fuselage at Mosquito Aircraft Museum
+Sea Hornet NF21	VX251		SOC 18.1.55
+Sea Hornet NF21	VX252		Stored Abbotsinch 15.10.52 SS 22.7.57
+Sea Hornet NF21	VZ655		Stored Lossiemouth 13.6.55 SS 6.57
+Sea Hornet NF21	VZ656		Stored Abbotsinch 23.9.50 SS 9.8.57
+Sea Hornet NF21	VZ657		Stored Abbotsinch 16.1.51 SS 9.8.57
+Sea Hornet NF21	VZ658		Stored Abbotsinch 20.2.50 SS 9.8.57
+Sea Hornet NF21	VZ659		Stored Abbotsinch 2.10.50 SS 22.7.57
+Sea Hornet NF21	VZ660		Stored Abbotsinch 25.4.50 SS 9.8.57
+Sea Hornet NF21	VZ661		Stored Abbotsinch 23.1.50 SS 9.8.57 
+Sea Hornet NF21	VZ662		Stored Abbotsinch 22.6.50 SS 9.8.57
+Sea Hornet NF21	VZ663		Stored Abbotsinch 23.2.50 SS 9.8.57
+Sea Hornet NF21	VZ664	RN RDU	Canopy shattered pulling out of dive 6.9.54 SOC 17.9.54 
+Sea Hornet NF21	VZ671		Stored Abbotsinch 10.1.52 SS 22.7.57
+Sea Hornet NF21	VZ672		SOC 27.10.54
+Sea Hornet NF21	VZ673		Stored Abbotsinch 17.10.52 SOC 3.57
+Sea Hornet NF21	VZ674		Stored Lossiemouth 4.10.54 SS 8.4.57
+Sea Hornet NF21	VZ675		Stored Abbotsinch 14.3.52 SS 22.7.57
+Sea Hornet NF21	VZ676		Grounded 13.10.55 Fire fighting training SOC 6.6.56
+Sea Hornet NF21	VZ677		Grounded 13.10.55 SOC 6.6.56
+Sea Hornet NF21	VZ678		Stored Lossiemouth 9.4.54 SS 24.3.58
+Sea Hornet NF21	VZ679		Stored Lossiemouth 1.6.54 SS 24.3.58
+Sea Hornet NF21	VZ680		Stored Lossiemouth 25.1.54 SS 24.3.58
+Sea Hornet NF21	VZ681		Stored Lossiemouth 25.5.54 SS 13.3.57
+Sea Hornet NF21	VZ682		Fire Training Bramcote 10.1.56 SOC 6.6.56
+Sea Hornet NF21	VZ690		Stored Abbotsinch SS 22.7.57
+Sea Hornet NF21	VZ691		Grounded 13.10.55 b/u Bramcote SOC 6.6.56
+Sea Hornet NF21	VZ692		Grounded 13.10.55 SS 21.1.57 
+Sea Hornet NF21	VZ693		Stored Lossiemouth 3.7.54 SS 19.12.56
+Sea Hornet NF21	VZ694		Grounded 13.10.55 SS 19.12.56
+Sea Hornet NF21	VZ695		Grounded 13.10.55 SS 19.12.56
+Sea Hornet NF21	VZ696		Stored Abbotsinch 10.4.51 SS 9.8.57
+Sea Hornet NF21	VZ697		SOC 30.3.53
+Sea Hornet NF21	VZ698		Grounded 13.10.55 SS 21.1.57
+Sea Hornet NF21	VZ699		Stored Culham 5.2.51 Stored Abbotsinch 4.3.52 SS 3.57
+Sea Hornet F20	VZ707		Stored Culham 5.12.51 Stored Lossiemouth 29.6.53 SS 13.3.57
+Sea Hornet F20	VZ708		SOC 24.9.51
+Sea Hornet F20	VZ709		Stored Abbotsinch 1.9.53 SS 22.22.7.57
+Sea Hornet F20	VZ710	801	Failed to pull out of loop and dived into ground Lee-on-Solent 14.9.50
+Sea Hornet F20	VZ711		Grounded 13.10.55 to Fire Trainer 31.12.55 SOC 10.1.56
+Sea Hornet F20	VZ712		Grounded 13.10.55 SOC Disposed of at sea over the stern of HMS Ark Royal 12.1.56
+Sea Hornet F20	VZ713	801	Crashed into sea from tight turn and exploded on impact N Cape Wrath 28.6.50 SOC 28.6.50
+Sea Hornet F20	VZ714		Stored Culham 5.10.51 Stored Lossiemouth 27.5.53 SS 8.4.57
+Sea Hornet F20	VZ715	801	Crashed on flight deck HMS Implacable 6.12.50
+Sea Hornet F20	VZ716		
+Sea Hornet F20	VZ717		
+Hornet F3	WB870		Control lost and aircraft hit house nr Changi 10.08.51
+Hornet F3	WB871		U/c jammed 1m NW of Butterworth 26.01.53
+Hornet F3	WB872		Dived into ground Khor Malaya 14.05.53
+Hornet F3	WB873		SOC 15.10.54 as CAT 5(c)
+Hornet F3	WB874		SOC 04.11.53 as CAT 5(c)
+Hornet F3	WB875		SOC 31.07.54 as CAT 5(c)
+Hornet F3	WB876		SOC 27.05.55 as CAT 5(c)
+Hornet F3	WB877		SOC 16.05.55 as CAT 5(c) at Butterworth l/n Seletar Singapore
+Hornet F3	WB878		SOC 28.03.55 as CAT 5(c)
+Hornet F3	WB879		SOC 27.05.55 as CAT 5(c) at Butterworth l/n Seletar Singapore
+Hornet F3	WB880		SOC 16.03.55 as CAT 5(c)
+Hornet F3	WB881		Hit drain Butterworth Malaya 26.06.52
+Hornet F3	WB882		Belly landing Kai Tak Hong Kong 04.06.52
+Hornet F3	WB883		SOC 27.05.55 as CAT 5(c)
+Hornet F3	WB884		Written off 28.09.51 SOC 01.10.51
+Hornet F3	WB885		Written off after losing power Butterworth Malaya 03.02.54
+Hornet F3	WB886		Damaged Butterworth Malaya SOC 14.07.53
+Hornet F3	WB887		Written off 03.12.51
+Hornet F3	WB888		SOC 14.04.53 as CAT 5(c)
+Hornet F3	WB889		SOC 11.02.54 as CAT 5(c)
+Hornet F3	WB897		SOC 15.03.55 as CAT 5(c)
+Hornet F3	WB898		Dived into ground 10m NW of Butterworth Malaya 15.07.53
+Hornet F3	WB899		SOC 06.05.53 as CAT 5(c)
+Hornet F3	WB900		Missing 85m SE of Seletar Malaya 04.01.52
+Hornet F3	WB901		SOC 28.03.53 as CAT 5(c)
+Hornet F3	WB902		Written off 03.12.51
+Hornet F3	WB903		Collided with WF959 off Waglan Island Hong Kong 25.08.52
+Hornet F3	WB904		SOC 18.05.55 as CAT 5(c)
+Hornet F3	WB905		Written off 25.06.53
+Hornet F3	WB906		Written off 17.01.54
+Hornet F3	WB907		Dived into sea out of cloud 1m W of Stanley Point Hong Kong 20.03.52
+Hornet F3	WB908		Swung on landing and u/c collaped Tengah 29.09.54
+Hornet F3	WB909		SOC 02.05.55 SOC as CAT 5(c)
+Hornet F3	WB910		Written off 07.03.52
+Hornet F3	WB911		Overshot runway Butterworth Malaya 14.09.54
+Hornet F3	WB912		U/c jammed Tengah Singapore 28.08.52
+Sea Hornet F20	WE235	801	Dived into sea 20m W of Mull of Kintyre 5.2.51 SOC 13.2.51
+Sea Hornet F20	WE236	RN RDU	Disintegrated on test flight Halton 1.2.51 SOC 20.2.51
+Sea Hornet F20	WE237		Stored Lossiemouth 18.11.52 SS 8.11.57
+Sea Hornet F20	WE238		Grounded 13.10.55 SOC 6.6.56
+Sea Hornet F20	WE239		Grounded 18.7.55 SOC 13.3.57
+Sea Hornet F20	WE240		SOC 14.2.55
+Sea Hornet F20	WE241		Stored Lossiemouth 10.53 SS 8.4.57
+Sea Hornet F20	WE242		Grounded 13.10.55 SOC 19.1.56 Used for fire fighting Hal Far
+Sea Hornet PR22	WE245		Stored Lossiemouth 18.7.53 SS 8.4.57
+Sea Hornet PR22	WE246		Stored Lossiemouth 27.10.53 SS 13.3.57
+Sea Hornet PR22	WE247		Stored Lossiemouth 15.6.53 SS 13.3.57
+Hornet F3	WF954		SOC 1.9.54
+Hornet F3	WF955		Ditched Persian Gulf off Kalak Iran 18.6.52
+Hornet F3	WF956		Undershot landing Butterworth Malaya 30.9.54
+Hornet F3	WF957		SOC 27.5.55
+Hornet F3	WF958		Collided with WB903 off Waglan Island Hong Kong 25.8.52
+Hornet F3	WF959		SOC 27.5.55 
+Hornet F3	WF960		SOC 4.1.54
+Hornet F3	WF961		SOC 27.5.55
+Hornet F3	WF962		Missing 26.8.54
+Hornet F3	WF966		SOC 27.5.55
+Hornet F3	WF967		SOC 31.7.55
+Hornet FR4	WF968		Crashed on ferry flight 2.7.53 [or dived into sea 20m from Muharraq Bahrein 22.7.52]
+Hornet FR4	WF969		SOC 6.5.55
+Hornet FR4	WF970		SOC 27.5.55
+Hornet FR4	WF971		Hit by PX302 Butterworth Malaya 29.7.54
+Hornet FR4	WF972		Forced landing Singkir Darat Malaya 28.6.54
+Hornet FR4	WF973		SOC 31.5.55
+Hornet FR4	WF974		Damaged in spin Kait Tak Hong Kong 12.4.54
+Hornet FR4	WF975		SOC 31.5.55
+Hornet FR4	WF976		SOC 18.5.55
+Hornet FR4	WF977		SOC 6.5.55
+Hornet FR4	WF978		SOC 6.5.55
+Hornet FR4	WF979		Written off after losing power Butterworth Malaya 26.1.53

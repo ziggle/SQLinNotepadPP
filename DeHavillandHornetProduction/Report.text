@@ -1,0 +1,10 @@
+# SELECT Mk, COUNT(Mk) AS Cnt FROM This GROUP BY Mk ORDER BY Cnt DESC
+Mk	Cnt	Role
+Hornet F3	132	Improved F1
+Sea Hornet F20	83	Carrier Fighter
+Hornet F1	60	Standard Land Fighter
+Sea Hornet NF21	52	Navy Night Fighter
+Sea Hornet PR22	49	Photo-Recon
+Hornet FR4	12	Fighter-Recon
+Hornet PR2	5	Land Photo-Recon
+Hornet P	2	Prototype?
