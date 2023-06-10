@@ -1,0 +1,189 @@
+-- create
+CREATE TABLE DateStuff (
+  year INTEGER NOT NULL,
+  month TEXT NOT NULL,
+  day TEXT NOT NULL,
+  hire_date DATETIME NOT NULL
+);
+
+-- insert
+INSERT INTO DateStuff VALUES (1991, 10, 26, '1991-10-26 0:00:00');
+INSERT INTO DateStuff VALUES (1990, 2, 21, '1990-2-21 0:00:00');
+INSERT INTO DateStuff VALUES (1991, 7, 16, '1991-7-16 0:00:00');
+
+-- fetch 
+SELECT DATE(hire_date), hire_date
+FROM DateStuff;
+
+----
+
+-- create
+CREATE TABLE DateStuff (
+  year INTEGER NOT NULL,
+  month TEXT NOT NULL,
+  day TEXT NOT NULL,
+  hire_date DATETIME NOT NULL
+);
+
+-- insert
+INSERT INTO DateStuff VALUES (1991, 10, 26, '1991-10-26 0:00:00');
+INSERT INTO DateStuff VALUES (1990, 2, 21, '1990-2-21 0:20:00');
+INSERT INTO DateStuff VALUES (1991, 7, 16, '1991-7-16 0:30:00');
+
+-- fetch 
+SELECT TIME(hire_date)
+FROM DateStuff;
+
+----
+
+-- create
+CREATE TABLE DateStuff (
+  year INTEGER NOT NULL,
+  month TEXT NOT NULL,
+  day TEXT NOT NULL,
+  hire_date DATETIME NOT NULL
+);
+
+-- insert
+INSERT INTO DateStuff VALUES (1991, 10, 26, '1991-10-26 0:00:00');
+INSERT INTO DateStuff VALUES (1990, 2, 21, '1990-2-21 0:20:00');
+INSERT INTO DateStuff VALUES (1991, 7, 16, '1991-7-16 0:30:00');
+
+-- fetch 
+SELECT EXTRACT(MONTH FROM hire_date)
+FROM DateStuff;
+
+----
+
+-- create
+CREATE TABLE DateStuff (
+  year INTEGER NOT NULL,
+  month TEXT NOT NULL,
+  day TEXT NOT NULL,
+  hire_date DATETIME NOT NULL
+);
+
+-- insert
+INSERT INTO DateStuff VALUES (1991, 10, 26, '1991-10-26 0:00:00');
+INSERT INTO DateStuff VALUES (1990, 2, 21, '1990-2-21 0:20:00');
+INSERT INTO DateStuff VALUES (1991, 7, 16, '1991-7-16 0:30:00');
+
+-- fetch 
+SELECT YEAR(hire_date), MONTH(hire_date), DAY(hire_date)
+FROM DateStuff;
+
+----
+
+
+-- create
+CREATE TABLE DateStuff (
+  year INTEGER NOT NULL,
+  month TEXT NOT NULL,
+  day TEXT NOT NULL,
+  hire_date DATETIME NOT NULL
+);
+
+-- insert
+INSERT INTO DateStuff VALUES (1991, 10, 26, '1991-10-26 0:00:00');
+INSERT INTO DateStuff VALUES (1990, 2, 21, '1990-2-21 0:20:00');
+INSERT INTO DateStuff VALUES (1991, 7, 16, '1991-7-16 0:30:00');
+
+-- fetch 
+SELECT NOW(), CURRENT_DATE, CURRENT_TIME, CURDATE(), CURTIME();
+
+----
+
+
+-- create
+CREATE TABLE DateStuff (
+  year INTEGER NOT NULL,
+  month TEXT NOT NULL,
+  day TEXT NOT NULL,
+  hire_date DATETIME NOT NULL
+);
+
+-- insert
+INSERT INTO DateStuff VALUES (1991, 10, 26, '1991-10-26 0:00:00');
+INSERT INTO DateStuff VALUES (1990, 2, 21, '1990-2-21 0:20:00');
+INSERT INTO DateStuff VALUES (1991, 7, 16, '1991-7-16 0:30:00');
+
+-- fetch 
+SELECT DATE_FORMAT(hire_date, "%d %b %Y")
+FROM DateStuff;
+
+----
+
+-- create
+CREATE TABLE DateStuff (
+  year INTEGER NOT NULL,
+  month TEXT NOT NULL,
+  day TEXT NOT NULL,
+  hire_date DATETIME NOT NULL
+);
+
+-- insert
+INSERT INTO DateStuff VALUES (1991, 10, 26, '1991-10-26 0:00:00');
+INSERT INTO DateStuff VALUES (1990, 2, 21, '1990-2-21 0:20:00');
+INSERT INTO DateStuff VALUES (1991, 7, 16, '1991-7-16 0:30:00');
+
+-- fetch 
+SELECT TIMESTAMPDIFF(YEAR, hire_date, CURRENT_DATE) AS employee_workingtime, hire_date
+FROM DateStuff
+ORDER BY employee_workingtime DESC;
+
+----
+
+-- create
+CREATE TABLE DateStuff (
+  year INTEGER NOT NULL,
+  month TEXT NOT NULL,
+  day TEXT NOT NULL,
+  hire_date DATETIME NOT NULL
+);
+
+-- insert
+INSERT INTO DateStuff VALUES (1991, 10, 26, '1991-10-26 0:00:00');
+INSERT INTO DateStuff VALUES (1990, 2, 21, '1990-2-21 0:20:00');
+INSERT INTO DateStuff VALUES (1991, 7, 16, '1991-7-16 0:30:00');
+
+-- fetch 
+SELECT DATE_ADD(hire_date, INTERVAL -2 MONTH), hire_date
+FROM DateStuff;
+
+----
+
+-- create
+CREATE TABLE DateStuff (
+  year INTEGER NOT NULL,
+  month TEXT NOT NULL,
+  day TEXT NOT NULL,
+  hire_date DATETIME NOT NULL
+);
+
+-- insert
+INSERT INTO DateStuff VALUES (1991, 10, 26, '1991-10-26 0:00:00');
+INSERT INTO DateStuff VALUES (1990, 2, 21, '1990-2-21 0:20:00');
+INSERT INTO DateStuff VALUES (1991, 7, 16, '1991-7-16 0:30:00');
+
+-- fetch 
+SELECT STR_TO_DATE('May 17, 2022', '%M %d, %Y');
+
+----
+
+-- create
+CREATE TABLE DateStuff (
+  year INTEGER NOT NULL,
+  month TEXT NOT NULL,
+  day TEXT NOT NULL,
+  hire_date DATETIME NOT NULL
+);
+
+-- insert
+INSERT INTO DateStuff VALUES (1991, 10, 26, '1991-10-26 0:00:00');
+INSERT INTO DateStuff VALUES (1990, 2, 21, '1990-2-21 0:20:00');
+INSERT INTO DateStuff VALUES (1991, 7, 16, '1991-7-16 0:30:00');
+
+-- fetch 
+SELECT WEEKDAY(hire_date)
+FROM DateStuff;
+
