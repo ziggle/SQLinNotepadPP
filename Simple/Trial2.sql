@@ -1,0 +1,1 @@
+SELECT order_id, price FROM T1 ORDER BY price DESC LIMIT 1 OFFSET 1; 

@@ -1,0 +1,1 @@
+SELECT  stor_id, SUM(qty) AS total_qty, 100*SUM(Qty)/(SELECT SUM(qty) FROM T1) AS perc FROM T1  GROUP BY stor_id ORDER BY SUM(qty) DESC;
