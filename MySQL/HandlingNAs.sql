@@ -64,12 +64,18 @@ SELECT * FROM new_tbl;
 
 -- This worked
 
+
 DELETE p1
 FROM EMPLOYEE p1, EMPLOYEE p2
 WHERE p1.order_id = p2.order_id
       AND p1.order_status != p2.order_status;
 
 SELECT * FROM EMPLOYEE;
+
+CREATE TEMPORARY TABLE new_tbl3 (SELECT * FROM EMPLOYEE);
+SELECT * FROM new_tbl3;
+
+
 
 -- CREATE TEMPORARY TABLE new_tbl2
 -- DELETE p1
